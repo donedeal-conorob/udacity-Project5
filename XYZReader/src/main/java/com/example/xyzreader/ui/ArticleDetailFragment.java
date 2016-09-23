@@ -167,6 +167,8 @@ public class ArticleDetailFragment extends Fragment implements
             bylineView.setText(R.string.not_available);
             bodyView.setText(R.string.not_available);
         }
+
+
     }
 
     @Override
