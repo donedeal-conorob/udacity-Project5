@@ -32,14 +32,77 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/XYZReader.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build.gradle" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/generated/source/buildConfig/androidTest/debug/com/example/xyzreader/test/BuildConfig.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/generated/source/buildConfig/debug/com/example/xyzreader/BuildConfig.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/assets/debug/Rosario-Regular.ttf" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/symbols/debug/R.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/libs/volley.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/assets/Rosario-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ArticleLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ItemsContract.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ItemsDatabase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/ItemsProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/SelectionBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/data/UpdaterService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/Config.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DrawInsetsFrameLayout.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DynamicHeightNetworkImageView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ImageLoaderHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/MaxWidthLinearLayout.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ObservableScrollView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/animator-v21/fab_state_list_anim.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable-nodpi/empty_detail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable/add_fab_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable/padded_divider.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable/photo_background_protection.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-land/macro_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/macro_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-w800dp/macro_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/themes.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build.gradle" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/xyzreader.iml" afterPath="" />
     </list>
     <ignored path="xyzreader.iws" />
@@ -118,17 +181,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2115">
+            <state relative-caret-position="174">
               <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
           <provider editor-type-id="android-designer2">
             <state />
@@ -2305,7 +2368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1474646415591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Cleanup">
+      <created>1474646548323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1474646548323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2724,22 +2794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
@@ -2785,6 +2839,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
           <folding />
         </state>
       </provider>
