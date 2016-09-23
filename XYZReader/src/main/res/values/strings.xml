@@ -10,5 +10,7 @@
     <string name="up">Up</string>
 
     <string name="txt_yo_yo"> YO YO YO YO YO</string>
+    <string name="not_available">N/A</string>
+    <string name="sample_text">Some sample text</string>
 
 </resources>
